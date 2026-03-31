@@ -8,21 +8,10 @@ Geleneksel ajandalar DEHB’li beyinler için çoğu zaman birer "suçluluk gün
 • Zaman Körlüğü ile Mücadele: Statik takvimler yerine, "acil durum skorları" ile hangi işin gerçekten öncelikli olduğunu görselleştirir.
 • Dopamin Odaklı Mikro-Öğrenme: Odak dağıldığında sistemi kapatmak yerine, 30 saniyelik bilgi kartlarıyla beyni "oyun modunda" tutar.
 • Yürütücü İşlev Desteği: "Bugün ne çalışmalıyım?" sorusunun yarattığı bilişsel yükü AI üstlenir; size sadece "Motorları Çalıştır" demek kalır.
-
 🏁 Başarı Kriterleri (DEHB Odaklı)
 • Suçluluk Duygusunu Azaltma: Planın gerisinde kalma korkusunu "Dinamik Yeniden Rotalama" ile yok etmek.
 • Başlama Kolaylığı: "Nereden başlayacağım?" sorusunu ortadan kaldırarak eyleme geçme süresini kısaltmak.
 • Sürdürülebilirlik: Rutin oluşturma zorluğunu yapay zeka desteğiyle otomatize etmek.
-
-​🚀 Öne Çıkan Özellikler
-​🧠 Bilişsel Yük ve Odak Analizi (Cognitive Sync)
-​Yapay zeka, o anki enerji seviyenizi (uyku, stres, yorgunluk) analiz eder. Eğer "düşük enerji" modundaysanız, ağır matematik konularını otomatik olarak erteler ve yerini hafif okuma görevlerine bırakır.
-​📅 Kalıcı Müfredat ve Akıllı Takip
-​Müfredatınızı bir kez yükleyin, bir daha asla kaybetmeyin! SQLite tabanlı veri yapısı sayesinde tüm dersleriniz, konularınız ve ilerlemeniz güvenli bir şekilde saklanır.
-​⏳ Dinamik Deadline (Son Teslim Tarihi) Yönetimi
-​Yaklaşan sınavlar veya ödevler için son teslim tarihleri atayın. AI, deadline yaklaştıkça bu konuların "acil durum" skorunu artırır ve çalışma planınızda önceliği onlara verir.
-​⚡ Mikro-Öğrenme Tetikleyicileri
-​Odak süreniz azaldığında veya dikkatiniz dağıldığında, sistem karşınıza 30 saniyelik "Hızlı Bilgi Kartları" çıkararak parçalanmış dikkatinizi verimli bir öğrenme anına dönüştürür.
 ​🛠️ Kullanılan Teknolojiler
 • ​Dil: Python 3.10+
 • ​Yapay Zeka: Gemini 1.5 Pro API (Müfredat Analizi & Karar Mekanizması)
