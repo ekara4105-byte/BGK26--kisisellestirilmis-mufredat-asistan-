@@ -30,6 +30,7 @@ Kişiselleştirilmiş Müfredat Asistanı: Her öğrencinin öğrenme hızı ve 
 • ​Tükenmişlik (Burnout) oranını %40 azaltmayı,
 • ​Öğrenme verimliliğini %25 artırmayı,
 • ​Sınav kaygısını "akıllı bir plan" ile kontrol altına almayı hedefliyoruz.
+YAYIN LİNKİ: https://focus-flow-ai--ekara4105.replit.app/
 
  
 
