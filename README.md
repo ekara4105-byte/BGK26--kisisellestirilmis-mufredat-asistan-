@@ -31,6 +31,7 @@ Kişiselleştirilmiş Müfredat Asistanı: Her öğrencinin öğrenme hızı ve 
 • ​Öğrenme verimliliğini %25 artırmayı,
 • ​Sınav kaygısını "akıllı bir plan" ile kontrol altına almayı hedefliyoruz.
 YAYIN LİNKİ: https://focus-flow-ai--ekara4105.replit.app/
+DEMO LİNKİ: https://www.loom.com/share/12be4a4e3d784f36b54400c0a7941cfc
 
  
 
